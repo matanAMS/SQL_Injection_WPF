@@ -1,0 +1,15 @@
+C:\Users\matan\source\repos\SqlInjectionWPF\SqlInjectionWPF\obj\Debug\SqlInjectionWPF.csprojAssemblyReference.cache
+C:\Users\matan\source\repos\SqlInjectionWPF\SqlInjectionWPF\obj\Debug\MainWindow.g.cs
+C:\Users\matan\source\repos\SqlInjectionWPF\SqlInjectionWPF\obj\Debug\App.g.cs
+C:\Users\matan\source\repos\SqlInjectionWPF\SqlInjectionWPF\obj\Debug\SqlInjectionWPF_MarkupCompile.cache
+C:\Users\matan\source\repos\SqlInjectionWPF\SqlInjectionWPF\obj\Debug\SqlInjectionWPF_MarkupCompile.lref
+C:\Users\matan\source\repos\SqlInjectionWPF\SqlInjectionWPF\bin\Debug\SqlInjectionWPF.exe.config
+C:\Users\matan\source\repos\SqlInjectionWPF\SqlInjectionWPF\bin\Debug\SqlInjectionWPF.exe
+C:\Users\matan\source\repos\SqlInjectionWPF\SqlInjectionWPF\bin\Debug\SqlInjectionWPF.pdb
+C:\Users\matan\source\repos\SqlInjectionWPF\SqlInjectionWPF\obj\Debug\MainWindow.baml
+C:\Users\matan\source\repos\SqlInjectionWPF\SqlInjectionWPF\obj\Debug\SqlInjectionWPF.g.resources
+C:\Users\matan\source\repos\SqlInjectionWPF\SqlInjectionWPF\obj\Debug\SqlInjectionWPF.Properties.Resources.resources
+C:\Users\matan\source\repos\SqlInjectionWPF\SqlInjectionWPF\obj\Debug\SqlInjectionWPF.csproj.GenerateResource.cache
+C:\Users\matan\source\repos\SqlInjectionWPF\SqlInjectionWPF\obj\Debug\SqlInjectionWPF.csproj.CoreCompileInputs.cache
+C:\Users\matan\source\repos\SqlInjectionWPF\SqlInjectionWPF\obj\Debug\SqlInjectionWPF.exe
+C:\Users\matan\source\repos\SqlInjectionWPF\SqlInjectionWPF\obj\Debug\SqlInjectionWPF.pdb
